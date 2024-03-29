@@ -1,0 +1,15 @@
+long_term_forecast_weather_96_96_MPLinear_custom_ftM_sl96_ll48_pl96_dm260_ebtimeF_dtTrue_Exp_0  
+mse:0.16106046736240387, mae:0.2142728865146637
+
+long_term_forecast_weather_96_192_MPLinear_custom_ftM_sl96_ll48_pl192_dm260_ebtimeF_dtTrue_Exp_0  
+mse:0.20757171511650085, mae:0.26010552048683167
+
+long_term_forecast_weather_96_720_MPLinear_custom_ftM_sl96_ll48_pl720_dm260_ebtimeF_dtTrue_Exp_0  
+mse:0.33771273493766785, mae:0.35792696475982666
+
+long_term_forecast_weather_96_336_MPLinear_custom_ftM_sl96_ll48_pl336_dm128_ebtimeF_dtTrue_Exp_0  
+mse:0.25736674666404724, mae:0.2995830476284027
+
+long_term_forecast_weather_96_336_MPLinear_custom_ftM_sl96_ll48_pl336_dm128_ebtimeF_dtTrue_Exp_0  
+mse:0.2626632750034332, mae:0.3074321746826172
+
